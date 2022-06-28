@@ -13,4 +13,4 @@
 
 StaRMAP (Staggered grid Radiation Moment Approximation) is a simple method to solve spherical harmonics moment systems, 
 such as the the time-dependent PN and SPN equations, of radiative transfer. The approach works for arbitrary moment order N, 
-making use of the specific coupling between the moments in the PN equations. The method allows for an efficient implementation in Matlab.
+making use of the specific coupling between the moments in the PN equations and 1D to 3D spatial geometries. The method allows for an efficient implementation in Matlab.
