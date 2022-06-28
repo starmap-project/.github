@@ -31,8 +31,6 @@ Temporal evolution of discrete L2 norm of numerical solution in 2D.
 
 <img src="images/fig_2d_ex_lattice_p15.jpg" alt="2D Checkerboard Example P15" width="49%" align="center"/>  <img src="images/fig_2d_ex_lattice_p39.jpg" alt="2D Checkerboard Example P39" width="49%" align="center"/> 
 
-2D Boxes test, demonstrating the equivalence of P<sub>N</sub> and SP<sub>N</sub> under the given assumptions.
-
 3D Lattice test case with P<sub>7</sub>.
 
 <img src="images/lattice3d_p7.jpg" alt="3D Lattice Test" width="90%" align="center"/>
