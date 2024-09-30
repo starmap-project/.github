@@ -16,6 +16,12 @@ StaRMAP (Staggered grid Radiation Moment Approximation) is a simple, yet powerfu
 
 # Gallery of Examples 
 
+## StaRMAP Medical (v1.0)
+
+<img src="images/lungctwithdose.png" alt="2D Lung CT scan" width="49%" align="center"/> <img src="images/lungctcrosssections.png" alt="2D Lung CT cross-sections" width="49%" align="center"/> 
+
+
+## StaRMAP (v1.0 - v2.0)
 Numerical convergence analysis using manufactured solution in 2D. 
 
 <img src="images/fig_2d_ex_mms.jpg" alt="2D MMS Example" width="90%" align="center"/>
@@ -37,3 +43,5 @@ Temporal evolution of discrete L2 norm of numerical solution in 2D.
 3D Point Source test case with SP<sub>39</sub>.
 
 <img src="images/pointsource_80x80_sp39.jpg" alt="Point Source Test" width="90%" align="center"/>
+
+
