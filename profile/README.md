@@ -13,6 +13,10 @@
 
 StaRMAP (Staggered grid Radiation Moment Approximation) is a simple, yet powerful, methodology to solve spherical harmonics moment systems, such as the time-dependent PN and SPN equations, of radiative transfer. The implementation allows the user to selected arbitrary moment order N, and the moment matrices and stable time step sizes are generated/chosen automatically. The numerical methods makes use of the specific coupling between the moments in the PN equations. The methodology is implemented in Matlab in a fully vectorized fashion, yielding highly competitive computational efficiency. The code can effectively handle 1D, 2D, and 3D spatial geometries with one single implementation.
 
+# Releases 
+1. [StaRMAP Medical v1.0](https://github.com/starmap-project/starmap/releases/tag/v1.0-med)
+2. [StaRMAP v2.0](https://github.com/starmap-project/starmap/releases/tag/v2.0)
+
 
 # Gallery of Examples 
 
